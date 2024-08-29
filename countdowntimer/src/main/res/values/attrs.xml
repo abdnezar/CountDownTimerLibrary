@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	
+    <declare-styleable name="CountDownTimerView">
+        <attr name="cdt_PrefixText" format="string" />
+        <attr name="cdt_SuffixText" format="string" />
+        <attr name="cdt_TimeMilliSeconds" format="string" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,6 @@
+com.abdnezar.countdowntimer
+attr cdt_PrefixText
+attr cdt_SuffixText
+attr cdt_TimeMilliSeconds
+string app_name
+styleable CountDownTimerView cdt_PrefixText cdt_SuffixText cdt_TimeMilliSeconds

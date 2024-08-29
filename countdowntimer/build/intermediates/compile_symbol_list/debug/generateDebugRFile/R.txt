@@ -1,0 +1,8 @@
+int attr cdt_PrefixText 0x0
+int attr cdt_SuffixText 0x0
+int attr cdt_TimeMilliSeconds 0x0
+int string app_name 0x0
+int[] styleable CountDownTimerView { 0x0, 0x0, 0x0 }
+int styleable CountDownTimerView_cdt_PrefixText 0
+int styleable CountDownTimerView_cdt_SuffixText 1
+int styleable CountDownTimerView_cdt_TimeMilliSeconds 2

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">countdowntimer</string>
+    <declare-styleable name="CountDownTimerView">
+        <attr format="string" name="cdt_PrefixText"/>
+        <attr format="string" name="cdt_SuffixText"/>
+        <attr format="string" name="cdt_TimeMilliSeconds"/>
+    </declare-styleable>
+</resources>
