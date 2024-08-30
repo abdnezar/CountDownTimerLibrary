@@ -1,13 +1,15 @@
-# Countdown Timer Library
+# Countdown Timer Library for Android
 A lightweight Android library that simplifies working with Countdown Timer Class with TextView can add to your views
 
 ## Features
-* Easy to use
-* have xml view (CountDownTimerView)
-* add counter listener to listen to remaining time
-* control timer (startCountDown(), stopCountDown())
+The CountdownTimerLibrary simplifies the creation and management of countdown timers in your Android applications. It provides a user-friendly interface for defining timers, customizing their behavior, and receiving updates as the countdown progresses. This library offers features like:
 
-## Installation
+* Easy timer creation and configuration
+* Flexible formatting options
+* Customizable callbacks for timer updates and completion
+* Clear API for integration with your Android projects
+
+**Installation**
 1. Add JitPack to your root `build.gradle` at the end of repositories:
 ```
 allprojects {
@@ -26,7 +28,7 @@ dependencies {
 ```
 
 ## latest  version on maven: 
-[![](https://jitpack.io/v/abdnezar/CountdownTimerLibrary.svg)](https://jitpack.io/#abdnezar/CountdownTimerLibrary)
+[![Maven Central](https://jitpack.io/v/abdnezar/CountdownTimerLibrary.svg)](https://jitpack.io/#abdnezar/CountdownTimerLibrary)
 
 ## Usage
 add to your layout xml:
