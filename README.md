@@ -32,7 +32,7 @@ dependencies {
 
 ## Usage
 add to your layout xml:
-```
+```xml
     <com.abdnezar.countdowntimer.CountDownTimerView
         android:id="@+id/cdt"
         android:layout_width="match_parent"
@@ -41,7 +41,7 @@ add to your layout xml:
         android:textSize="26sp"/>
 ```
 add to your Activty Class:
-```
+```kotlin
         cdt = binding.cdt // get CountDownTimerView
         cdt.setTime(10000) // add your time in millisecond
 
