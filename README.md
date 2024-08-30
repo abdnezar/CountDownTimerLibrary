@@ -61,6 +61,8 @@ add to your Activty Class:
         cdt.stopCountDown()
 ```
 
+you can see full example code in [app](https://github.com/abdnezar/CountdownTimerLibrary/tree/master/app) module
+
 ## License
 
 [MIT License](https://choosealicense.com/licenses/mit/)
