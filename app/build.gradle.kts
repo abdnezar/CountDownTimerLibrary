@@ -4,7 +4,6 @@ plugins {
 }
 
 android {
-    namespace = "com.abdnezar.countdowntimer"
     compileSdk = 34
 
     defaultConfig {
