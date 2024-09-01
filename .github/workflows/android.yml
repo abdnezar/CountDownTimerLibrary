@@ -38,11 +38,11 @@ jobs:
 
     # Build AAR for spinview module
     - name: Build AAR
-      run: ./gradlew :countdownview:assembleRelease
+      run: ./gradlew :countdowntimer:assembleRelease
 
     # Archive AAR
     - name: Upload AAR
       uses: actions/upload-artifact@v3
       with:
-        name: countdownview-release-aar
-        path: countdownview/build/outputs/aar/*.aar
+        name: countdowntimer-release-aar
+        path: countdowntimer/build/outputs/aar/*.aar
