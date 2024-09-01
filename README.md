@@ -1,5 +1,5 @@
 [![Android CI - Build Apk & AAR](https://github.com/abdnezar/CountdownTimerLibrary/actions/workflows/android.yml/badge.svg)](https://github.com/abdnezar/CountdownTimerLibrary/actions/workflows/android.yml)
-[![Maven Central](https://jitpack.io/v/abdnezar/CountdownTimerLibrary.svg)](https://jitpack.io/#abdnezar/CountdownTimerLibrary)
+[![](https://jitpack.io/v/abdnezar/CountdownTimerLibrary.svg)](https://jitpack.io/#abdnezar/CountdownTimerLibrary)
 
 # Countdown Timer Library for Android
 A lightweight Android library that simplifies working with Countdown Timer Class with TextView can add to your views
@@ -31,7 +31,7 @@ dependencies {
 ```
 
 ## latest  version on maven: 
-[![Maven Central](https://jitpack.io/v/abdnezar/CountdownTimerLibrary.svg)](https://jitpack.io/#abdnezar/CountdownTimerLibrary)
+[![](https://jitpack.io/v/abdnezar/CountdownTimerLibrary.svg)](https://jitpack.io/#abdnezar/CountdownTimerLibrary)
 
 ## Usage
 add to your layout xml:
