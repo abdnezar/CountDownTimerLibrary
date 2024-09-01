@@ -23,6 +23,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
+        namespace = "com.abdnezar.countdowntimer"
         minSdkVersion 14
         consumerProguardFiles 'consumer-rules.pro'
     }
