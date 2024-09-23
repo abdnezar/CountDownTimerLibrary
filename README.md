@@ -25,6 +25,13 @@ allprojects {
 
 2. Add the dependency in app module build.gradle:
 ```
+// force androidx.appcompat:appcompat:1.6.1 if don't need to update to 
+configurations.configureEach {
+    resolutionStrategy {
+        force 'androidx.appcompat:appcompat:1.6.1'
+    }
+}
+
 dependencies {
   implementation 'com.github.abdnezar:CountdownTimerLibrary:1.0.1'
 }
